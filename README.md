@@ -1,1 +1,1 @@
-# Git Uebung (edited in repo-init)
+# Git Uebung (edited in both repositories)
